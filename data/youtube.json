@@ -1,0 +1,17 @@
+{
+  "sunucular": [
+    {
+      "id": "1355505011144134656",
+      "youtube": {
+        "kanallar": [
+          {
+            "id": "@guild8629",
+            "url": "https://www.youtube.com/@guild8629",
+            "ad": "Guild"
+          }
+        ],
+        "aktifKanal": "@guild8629"
+      }
+    }
+  ]
+}
